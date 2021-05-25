@@ -1,0 +1,24 @@
+body{
+  background-color: cornflowerblue;
+}
+.navbar{
+   position: fixed;
+    width:100%;
+    transition: background-color 1s;
+  
+  }
+  
+
+  #green{
+    background-color:#559065;
+  }
+  #blue{
+    background-color:cornflowerblue;
+    padding-top: 10%;
+    text-align: center;
+    
+  }
+  h1,h2,h3,h4,p{
+      color:white;
+  }
+  
